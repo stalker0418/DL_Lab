@@ -31,12 +31,12 @@ const Portfolio = () => {
                     <li><a href="https://scholar.google.com/citations?hl=en&user=2tFmf_0AAAAJ&view_op=list_works&sortby=pubdate">Saeed Alahmari</a>, Ph.D., Department of Computer Science, Najran University, Najran, KSA</li>
                 </ul>
 
-                <br /><br />
+                {/* <br /><br />
                 <h5><u>Collaborators:</u></h5>
                 <ul>
-                    {/* <li>Saeed Alahmari, Ph.D., Department of Computer Science, Najran University, Najran, KSA</li> */}
-                    {/* <li>Palak Dave, Ph.D., Postdoctoral Research Fellow, Department of Machine Learning, Moffitt Cancer Center, Tampa, FL</li> */}
-                </ul>
+                    <li>Saeed Alahmari, Ph.D., Department of Computer Science, Najran University, Najran, KSA</li>
+                    <li>Palak Dave, Ph.D., Postdoctoral Research Fellow, Department of Machine Learning, Moffitt Cancer Center, Tampa, FL</li>
+                </ul> */}
                 <br /><br />
 
 
