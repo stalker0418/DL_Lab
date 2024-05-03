@@ -2,6 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+If you do not have the node_modules directory in your main directory, First go inside your directory and run:
+### 'npm install'
+Doing this will install all the modules that are mentioned in package.json that will be needed for this project to run. 
+
+After that
 In the project directory, you can run:
 
 ### `npm start`
