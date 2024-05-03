@@ -101,13 +101,13 @@ const Portfolio = () => {
 
                 <div className="image-container">
                     <div className="image-wrapper">
-                        <img src="DL_Lab/USF_logo.png" alt="USF Logo" width="300" height="200" />
+                        <img src="USF_logo.png" alt="USF Logo" width="300" height="200" />
                     </div>
                     <div className="image-wrapper">
-                        <img src="DL_Lab/nsf.png" alt="Picture 5" width="200" height="200" />
+                        <img src="nsf.png" alt="Picture 5" width="200" height="200" />
                     </div>
                     <div className="image-wrapper-down">
-                        <img src="DL_Lab/biosciences.png" alt="Picture 5" width="300" height="100" />
+                        <img src="biosciences.png" alt="Picture 5" width="300" height="100" />
                     </div>
                 </div>
                 
