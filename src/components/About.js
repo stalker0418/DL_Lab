@@ -7,7 +7,7 @@ const About = () => {
             <div id="about" className="container-fluid">
                 <div className="row">
                     <div   >
-                        <h2 class="text-center">Outline</h2>
+                        <h2 className="text-center">Outline</h2>
                         <hr></hr>
                         <div class="text-center" className='image-container'>
                             <div class="col-sm-6 text-center" className='image-wrapper'>
@@ -16,8 +16,8 @@ const About = () => {
                             <div class="text-center" className='image-wrapper'>
                                 <img src="DL_Lab/Picture4.png" alt="System setup" width="600" height="300" />
                             </div>
-                        </div>
-                        <h4>Abstract</h4><hr></hr>
+                        </div><br/>
+                        <h3>Abstract</h3><hr></hr>
                         <p>Quantifying cells in a defined region of biological tissue is critical for many clinical and preclinical studies, especially in pathology, toxicology, cancer, and behavior. Unbiased stereology is the state-of-art method for quantification of the total number and other morphometric parameters of stained objects in a defined region of biological tissue.  Manual stereology for total cell number estimate is time and labor intensive. Moreover, manual stereology is subjective due to variable training, fatigue, inter- and intra-rater variability, and other human factors. As part of a program to develop accurate, precise, and more efficient automatic approaches for quantifying morphometric changes in biological tissue, our work focuses on automating the unbiased stereology to estimate the total number of histologically stained cells with comparable accuracy to human experts, but with higher throughput efficiency and test-retest repeatability.</p>
                         <br/><br/><br/>
                         {/* <div className="text-center"> */}

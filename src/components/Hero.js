@@ -3,7 +3,7 @@ import React from 'react';
 const Hero = () => {
     return (
         <div className="jumbotron text-center">
-            <h1>Deep Learning Technology For The Microscopic Analysis Of Stained Cells Using
+            <h1 style={{padding: 20 + 'px'}}>Deep Learning Technology For The Microscopic Analysis Of Stained Cells Using
 Unbiased Methods</h1>
             <p>Department of Computer Science and Engineering</p>
             <p>University of South Florida</p>
