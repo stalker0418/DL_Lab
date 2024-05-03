@@ -7,13 +7,13 @@ const About = () => {
             <div id="about" className="container-fluid">
                 <div className="row">
                     <div   >
-                        <h2 class="text-center">Outline</h2>
+                        <h2 className="text-center">Outline</h2>
                         <hr></hr>
-                        <div class="image-container">
-                            <div class="col-sm-6 text-center">
+                        <div className="image-container">
+                            <div className="col-sm-6 text-center">
                                 <img src="picture2.png" alt="System setup" width="400" height="300" />
                             </div>
-                            <div class="text-center">
+                            <div className="text-center">
                                 <img src="picture3.png" alt="System setup" width="400" height="300" />
                             </div>
                         </div>
