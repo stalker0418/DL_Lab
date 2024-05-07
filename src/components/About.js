@@ -11,10 +11,10 @@ const About = () => {
                         <hr></hr>
                         <div class="text-center" className='image-container'>
                             <div class="col-sm-6 text-center" className='image-wrapper'>
-                                <img src="./DL_Lab/Picture2.png" alt="System setup" width="400" height="300" />
+                                <img src="./Picture2.png" alt="System setup" width="400" height="300" />
                             </div>
                             <div class="text-center" className='image-wrapper'>
-                                <img src="./DL_Lab/Picture4.png" alt="System setup" width="600" height="300" />
+                                <img src="./Picture4.png" alt="System setup" width="600" height="300" />
                             </div>
                         </div>
                         <h4>Abstract</h4><hr></hr>
